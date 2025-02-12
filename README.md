@@ -4,4 +4,6 @@
 
 -> A Notes application where you can Create, Read, Update, and Delete your notes.
 
--> Frameworks used : Asp.Net Core Web API, Entity Framework Core, Javascript, HTML, CSS.
+-> Integrated Fetch API for frontend-backend communication and utilized Postman & Swagger UI for API testing and documentation.
+
+-> Optimized API performance using asynchronous programming (async/await) and secured endpoints with CORS policies.
