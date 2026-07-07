@@ -53,7 +53,3 @@ Open the Swagger UI at the URL shown in the console, or open `wwwroot/index.html
 
 - [ ] Add user accounts so notes are private per user
 - [ ] Add search/filter on the frontend
-
-## License
-
-MIT
